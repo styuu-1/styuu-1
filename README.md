@@ -17,10 +17,6 @@ PORT      STATE  SERVICE           VERSION
 443/tcp   open   it-support        Linux (Debian/Ubuntu/Kali)
 1337/tcp  open   cybersec-mindset  status: LEARNING // FOCADISSIMO
 
-$ echo "Todo sistema tem uma falha. Todo dev júnior também."
-Todo sistema tem uma falha. Todo dev júnior também.
-\`\`\`
-
 </div>
 
 
@@ -42,23 +38,6 @@ Todo sistema tem uma falha. Todo dev júnior também.
 ![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
 
 </div>
-
----
-
-##  logs do sistema — estatísticas
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=styuu-1&show_icons=true&theme=matrix&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styuu-1&layout=compact&theme=matrix&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=styuu-1&theme=matrix&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=styuu-1&theme=matrix-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" width="95%"/>
-
-</div>
-
----
 
 ## 📡 canal de comunicação seguro
 
