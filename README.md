@@ -23,31 +23,6 @@ Todo sistema tem uma falha. Todo dev júnior também.
 
 </div>
 
----
-
-##  [ SESSÃO INICIADA — ACESSO CONCEDIDO ]
-
-\`\`\`python
-# operador: Samuel Pacheco Falcão Rodrigues
-# localização: São Paulo, SP - BR
-# clearance: JUNIOR // EM ESCALADA DE PRIVILÉGIOS
-
-class Operador:
-    def __init__(self):
-        self.codinome     = "styuu-1"
-        self.cargo_atual  = "Junior Web Developer & IT Support Technician"
-        self.formacao     = "Instituto Proa - ProProfissão"
-        self.missao       = "Escalar privilégios até Cybersegurança / Full-Stack"
-
-    def executar(self):
-        while not self.missao.completa:
-            self.estudar()
-            self.quebrar_producao()   # e consertar de novo, claro
-            self.aprender_com_os_erros()
-        return "acesso root concedido"
-\`\`\`
-
-> Ando caçando as próprias falhas antes que alguém mais as explore — no código e na carreira. 🔓
 
 ---
 
