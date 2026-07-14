@@ -1,16 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**styuu-1/styuu-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Iniciando+conex%C3%A3o+segura...;Autentica%C3%A7%C3%A3o+bem-sucedida.;Bem-vindo%2C+operador+styuu-1.;Escaneando+habilidades..." alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=SAMUEL%20P.%20F.%20RODRIGUES&fontSize=34&fontColor=00FF41&fontAlignY=40&desc=root%40styuu-1%3A~%23%20whoami%20%7C%20junior%20dev%20%2F%20it%20support%20%2F%20future%20cybersec&descAlignY=60&descColor=00FF41&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+\`\`\`bash
+$ nmap -sV --script vuln career.samuel.dev
+
+Starting scan...
+PORT      STATE  SERVICE           VERSION
+22/tcp    open   dev-skills        React.js / C# / ASP.NET
+443/tcp   open   it-support        Linux (Debian/Ubuntu/Kali)
+1337/tcp  open   cybersec-mindset  status: LEARNING // FOCADISSIMO
+
+$ echo "Todo sistema tem uma falha. Todo dev júnior também."
+Todo sistema tem uma falha. Todo dev júnior também.
+\`\`\`
+
+</div>
+
+---
+
+##  [ SESSÃO INICIADA — ACESSO CONCEDIDO ]
+
+\`\`\`python
+# operador: Samuel Pacheco Falcão Rodrigues
+# localização: São Paulo, SP - BR
+# clearance: JUNIOR // EM ESCALADA DE PRIVILÉGIOS
+
+class Operador:
+    def __init__(self):
+        self.codinome     = "styuu-1"
+        self.cargo_atual  = "Junior Web Developer & IT Support Technician"
+        self.formacao     = "Instituto Proa - ProProfissão"
+        self.missao       = "Escalar privilégios até Cybersegurança / Full-Stack"
+
+    def executar(self):
+        while not self.missao.completa:
+            self.estudar()
+            self.quebrar_producao()   # e consertar de novo, claro
+            self.aprender_com_os_erros()
+        return "acesso root concedido"
+\`\`\`
+
+> Ando caçando as próprias falhas antes que alguém mais as explore — no código e na carreira. 🔓
+
+---
+
+##  payload — stack carregado
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF41)
+![SQLServer](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+
+</div>
+
+---
+
+##  logs do sistema — estatísticas
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=styuu-1&show_icons=true&theme=matrix&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styuu-1&layout=compact&theme=matrix&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=styuu-1&theme=matrix&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=styuu-1&theme=matrix-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 📡 canal de comunicação seguro
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/samuelpachecofalc%C3%A3orodrigues)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:leumas.pacheco@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/styuu-1)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>🟢 conexão criptografada estabelecida · firewall ativo · aguardando próximo commit...</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%"/>
