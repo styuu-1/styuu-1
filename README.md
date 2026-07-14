@@ -6,22 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=SAMUEL%20P.%20F.%20RODRIGUES&fontSize=34&fontColor=00FF41&fontAlignY=40&desc=root%40styuu-1%3A~%23%20whoami%20%7C%20junior%20dev%20%2F%20it%20support%20%2F%20future%20cybersec&descAlignY=60&descColor=00FF41&animation=fadeIn" width="100%"/>
 
-<div align="center">
-
-\`\`\`bash
-$ nmap -sV --script vuln career.samuel.dev
-
-Starting scan...
-PORT      STATE  SERVICE           VERSION
-22/tcp    open   dev-skills        React.js / C# / ASP.NET
-443/tcp   open   it-support        Linux (Debian/Ubuntu/Kali)
-1337/tcp  open   cybersec-mindset  status: LEARNING // FOCADISSIMO
-
-</div>
-
-
----
-
 ##  payload — stack carregado
 
 <div align="center">
